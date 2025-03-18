@@ -4,13 +4,13 @@ Este desafío implica desarrollar una aplicación donde los usuarios puedan crea
 
 ## Funcionalidades 
 - **Agregar nombres**
-![agregar nombre](./assets/challenge.PNG)
+![Agregar nombre](./assets/challenge.PNG)
 
 - **Validación de entrada**
+![Agregando validacion](./assets/funcion2.PNG)
 
-- **Visualizacion de los nombres**
-
-- **Sorteo Aleatorio**
+- **Visualizacion de los nombres y sorteo aleatorio**
+![Agregando funcion](./assets/enaccion.PNG)
 
 
 ## Instalación 
